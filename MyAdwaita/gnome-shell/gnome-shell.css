@@ -1,0 +1,43 @@
+/* Copyright 2009, Red Hat, Inc.
+ *
+ * Portions adapted from Mx's data/style/default.css
+ *   Copyright 2009 Intel Corporation
+ *
+ * This program is free software; you can redistribute it and/or modify it
+ * under the terms and conditions of the GNU Lesser General Public License,
+ * version 2.1, as published by the Free Software Foundation.
+ *
+ * This program is distributed in the hope it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for
+ * more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this program; if not, write to the Free Software Foundation,
+ * Inc., 51 Franklin St - Fifth Floor, Boston, MA 02110-1301 USA.
+ */
+
+/* GNOME Shell - GrayRevenge theme
+
+            designed by Alessandro Roncone http://alecive.deviantart.com/ */
+
+stage {
+    font-family: ubuntu, sans-serif, Aller;
+    font-size: 8.5pt;
+    color: white;
+    font-weight: normal;
+}
+
+
+/* small bold */
+/*.switcher-list, */
+/*.source-title*/
+/*.app-well-app > .overview-icon,*/
+/*.remove-favorite > .overview-icon,*/
+/*.search-result-content > .overview-icon */
+/*{*/
+/*    font-size: 8pt;*/
+/*    font-weight: bold;*/
+/*}*/
+
+
